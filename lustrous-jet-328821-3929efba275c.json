@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lustrous-jet-328821",
+  "private_key_id": "3929efba275c09ace2880762a68e04128c455d3a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDXB4RQBd2QS1uN\nFeWAw7YStwZfhYjG0euKaFPxhCEhr0wzq/tx2Wo7aPuyjf4r+CM8itqF004OwhxY\nbb5KVmgM+12DUp1UJ9vsridTiii/VUiz9zIoIAFygL9AybPyokz9/XT5P2tpbV6p\nx3+ara9EAMf1ZhnNO4xq8jtUAoH+IVvlnGeP40b6PrvZvyX8L1pgrJN/VrzSqxZM\nnfm2+1Fa1lzd3NalrYiOuSCLBs+DNjTKn9ywGI8///shaSxgMV34FinMkyIEWZWc\n1CJTMDjeeFw6at7QmAg1r/MpvtAXi8l2Ouz9xPO/9B3lZCWd14ZY7o1xHK46Fz0W\niRD1aTZJAgMBAAECggEAOenhXfgmc32IW9hg5qxPdnzq74E0lG/nY3Cz4yF2Fu9y\ns5wHbeNjtDqTR8TshwUe4Gh5cH+3z0vCfKKaFMVu4sg0qHDwxMCzf+xr1Rkp3lZm\n7WmPjbUJDsDUQevRVnEWEXZZMeQ91rhJParomE1dHhCjyllEa701FXzGM9s1Da+J\n+Uvx6G33/0gVohJUV2q+aWadQQofGqGltczZZYZqdXWaaWUg67colAJfkanxORUi\nnGJesrLMb1C9ZONDOG0rCl0RZ67PipKGpDlc7JmVNwTgXw1yHDJ1AbTo7JmI/P2N\nLhb5p0sGjRs0cnDmnzgat4l0I8PbqJOqV62sipZl/QKBgQDwBO0gqJscSPjrMGT1\nBfoxLeTV4Gw5lgrQx7R5N3OHx28VWFKi+63h7LXP01PaAhg1DJUo9onCY3FzOkpj\nm0FSo9bBcbjkBDRGK0DwZ4PaiBUCAPQRiVAx3kBsVT5atInZzpxIol2QsBarNQe7\ntui4GIDCXv146cX86SjorVcF7wKBgQDlWKTJu8JHiUGuzuqu03/tt7uXgsJsT3vv\nfiymY+O9R1i4RXS0AdSK3vFLLT3ut2X4LbQ3h+8z3P1EzQThKyb2QyzyuKDoKeol\n0ot6HoPViEsGR5fS5X2C8chHTDTX+TJ9vEyg/QUsCLfntSvMGmFl7wh90oY/vEL+\nt+ITa/t/RwKBgHpa+IsaiJ/9ry8t53llB6sEa1CAbItaqr7N33mfw/xmtYEbGl1N\nkdHHOtPsNiW/xZldhbhxHb8DtLT59Swb3EwFi5fnokpSvlc6+4rSKkw/7P2tgL5j\n0obpdswDFJtmx5NKGS+J3crBiXzTttKBptcaXqE3jV2TRsPsFFew7djvAoGACFF7\nwJlfxYpz6Gw21Np09GFKm4cxmA4V96zC39IVq4LP8/cI8ZJzbAoEBG8CpQrf1u2J\ncM4sXdwxD3LEL4qKIjpzgeYyZ9lFVdPaHTbIH1GPLw4fspWCROKSGgvoisDOFQNk\nYB5tNpimWvAWQ5PdXn4Z975QAjXI1EZFG+E5wPcCgYBZkHqOlzNjqzORI0s3V2A3\nZrUaTP1+pGw0I0EIu3yvOBkLYhFe89FYlX1MyZgLctND9uU6+NF53xK/D91Ek5rp\nE/cX2+zgd4MmVEYF6EyqOKpkUCuyr0lGthS9q2hLMY67TezAJoYE44FLtlmhoht6\ncuCFDr3jBUF/TlaQSpBsaA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcp-terraform@lustrous-jet-328821.iam.gserviceaccount.com",
+  "client_id": "116475578792199973541",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcp-terraform%40lustrous-jet-328821.iam.gserviceaccount.com"
+}
