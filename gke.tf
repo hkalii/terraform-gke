@@ -1,15 +1,15 @@
 variable "gke_username" {
-  default     = ""
+  default     = "hkalii"
   description = "gke username"
 }
 
 variable "gke_password" {
-  default     = ""
+  default     = "MDY3NDYxNjU0MGErKwo="
   description = "gke password"
 }
 
 variable "gke_num_nodes" {
-  default     = 2
+  default     = 3
   description = "number of gke nodes"
 }
 
