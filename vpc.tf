@@ -6,6 +6,13 @@ variable "region" {
   description = "region"
 }
 
+provider "google" {
+  project = var.project_id
+  region  = var.region
+  credentials = var.gcp_credentials
+  zone = var.gcp_zone
+}
+
 # VPC
 resource "google_compute_network" "vpc" {
   name                    = "${var.project_id}-vpc"
