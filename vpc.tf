@@ -10,7 +10,6 @@ provider "google" {
   project = var.project_id
   region  = var.region
   gcp_credentials = var.gcp_credentials
-  zone = var.gcp_zone
 }
 
 # VPC
