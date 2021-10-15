@@ -9,7 +9,7 @@ variable "region" {
 provider "google" {
   project = var.project_id
   region  = var.region
-  credentials = var.gcp_credentials
+  gcp_credentials = var.gcp_credentials
   zone = var.gcp_zone
 }
 
